@@ -63,7 +63,7 @@ namespace SwitchCase_Mes
                 break;
 
                 default:
-                    WriteLine("Mês inexistente !");
+                    WriteLine("O mês inserido é inexistente!");
                 break;
             }
 
